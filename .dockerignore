@@ -1,5 +1,5 @@
-env
-.git
-Dockerfile
-.idea
-data
+.*
+venv/
+env/
+env/
+
