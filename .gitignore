@@ -1,12 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+data/caltech-101
+data/archive.zip
 *.py[cod]
 *$py.class
-artifact
-.vscode
+.idea
 # C extensions
 *.so
-
+env
 # Distribution / packaging
 .Python
 build/
@@ -27,7 +28,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-saved_models/*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
